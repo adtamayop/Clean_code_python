@@ -11,3 +11,5 @@ single underscore.**
 
 
 https://www.programiz.com/python-programming/property
+https://github.com/PacktPublishing/Clean-Code-in-Python
+
